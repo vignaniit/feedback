@@ -24,5 +24,8 @@ This repository contains the source code for our proposed solution to improve th
 - Exportable reports in various formats like PDF, CSV, XLSX, or JSON.
 - Customization options for report presentation and filters for granular analysis.
 
+### License
+This project is licensed under the MIT License. See the [license](license.md) file for more details.
+
 > [!NOTE]
 > This README will be updated regularly as we continue developing the project
